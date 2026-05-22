@@ -280,7 +280,7 @@ def track_call(model, team, task_type, response):
 
 ## Related Skills
 
-- [llm-gateway](../../infrastructure/networking/llm-gateway/) - Centralized cost control
+- [llm-gateway](../../../infrastructure/networking/llm-gateway/) - Centralized cost control
 - [llm-caching](../llm-caching/) - Semantic caching patterns
-- [vllm-server](../../infrastructure/local-ai/vllm-server/) - Self-hosted inference
+- [vllm-server](../../../infrastructure/local-ai/vllm-server/) - Self-hosted inference
 - [agent-observability](../agent-observability/) - Token and cost telemetry

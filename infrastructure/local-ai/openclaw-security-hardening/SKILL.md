@@ -106,4 +106,4 @@ Minimum operational runbook:
 
 - [openclaw-local-mac-mini](../openclaw-local-mac-mini/) - Local OpenClaw hosting setup
 - [multi-tenant-llm-hosting](../multi-tenant-llm-hosting/) - Multi-tenant AI isolation patterns
-- [zero-trust](../../networking/zero-trust/) - Private access and identity-aware network controls
+- [zero-trust](../../../security/network/zero-trust/) - Private access and identity-aware network controls

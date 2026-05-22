@@ -304,6 +304,6 @@ tcp-keepalive 60
 ## Related Skills
 
 - [llm-cost-optimization](../llm-cost-optimization/) - Full cost strategy
-- [llm-gateway](../../infrastructure/networking/llm-gateway/) - Gateway-level caching
-- [vector-database-ops](../../infrastructure/databases/vector-database-ops/) - Qdrant setup
+- [llm-gateway](../../../infrastructure/networking/llm-gateway/) - Gateway-level caching
+- [vector-database-ops](../../../infrastructure/databases/vector-database-ops/) - Qdrant setup
 - [agent-observability](../agent-observability/) - Cache metrics dashboards
