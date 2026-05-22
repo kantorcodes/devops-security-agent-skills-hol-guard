@@ -308,7 +308,7 @@ kubectl get inferenceservice llama-3-8b -n models -w
 
 ## Related Skills
 
-- [vllm-server](../../infrastructure/local-ai/vllm-server/) - vLLM for LLM serving
-- [llm-inference-scaling](../../infrastructure/local-ai/llm-inference-scaling/) - KEDA autoscaling
-- [kubernetes-ops](./kubernetes-ops/) - Core Kubernetes operations
-- [gpu-server-management](../../infrastructure/servers/gpu-server-management/) - GPU nodes
+- [vllm-server](../../../infrastructure/local-ai/vllm-server/) - vLLM for LLM serving
+- [llm-inference-scaling](../../../infrastructure/local-ai/llm-inference-scaling/) - KEDA autoscaling
+- [kubernetes-ops](../kubernetes-ops/) - Core Kubernetes operations
+- [gpu-server-management](../../../infrastructure/servers/gpu-server-management/) - GPU nodes

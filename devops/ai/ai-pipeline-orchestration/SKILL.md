@@ -256,7 +256,7 @@ nightly_refresh = ScheduleDefinition(
 
 ## Related Skills
 
-- [rag-infrastructure](../../infrastructure/local-ai/rag-infrastructure/) - RAG system setup
-- [llm-fine-tuning](../../infrastructure/local-ai/llm-fine-tuning/) - Training jobs
+- [rag-infrastructure](../../../infrastructure/local-ai/rag-infrastructure/) - RAG system setup
+- [llm-fine-tuning](../../../infrastructure/local-ai/llm-fine-tuning/) - Training jobs
 - [agent-observability](../agent-observability/) - Pipeline monitoring
-- [kubernetes-ops](../orchestration/kubernetes-ops/) - Running pipeline pods on K8s
+- [kubernetes-ops](../../orchestration/kubernetes-ops/) - Running pipeline pods on K8s

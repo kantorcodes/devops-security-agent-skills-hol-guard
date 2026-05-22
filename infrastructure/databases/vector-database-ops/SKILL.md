@@ -281,5 +281,5 @@ while True:
 ## Related Skills
 
 - [rag-infrastructure](../../local-ai/rag-infrastructure/) - Full RAG pipeline
-- [databases](../databases/) - General database management
+- [databases](../) - General database management
 - [postgresql](../postgresql/) - pgvector host database ops
