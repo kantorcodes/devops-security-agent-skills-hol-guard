@@ -65,12 +65,12 @@ Inspect pending decisions and evidence:
 
 ```bash
 hol-guard approvals
-hol-guard approvals open
+hol-guard approvals open <request-id>
 hol-guard receipts
 hol-guard diff <harness>
 ```
 
-When Guard returns a request ID, resolve only the specific decision the user has authorized:
+Use the pending request ID returned by `hol-guard approvals` when opening a specific approval. When Guard returns a request ID, resolve only the specific decision the user has authorized:
 
 ```bash
 hol-guard approvals approve <request-id>
